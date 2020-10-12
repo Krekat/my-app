@@ -36,3 +36,52 @@
     transform: rotate(360deg);
   }
 }
+
+.site-header {
+  background-color: #282c34;
+
+}
+.box-lorem {
+  background: darkgrey;
+  border: 2px solid gray;
+  padding: 1em;
+  box-shadow: 5px 5px 5px 5px black;
+}
+.container-fluid {
+  padding-right: 0;
+  padding-left: 0;
+  background-image: url("https://w-dog.ru/wallpapers/1/82/341732233568723.jpg");
+  background-size: 100%;
+}
+p{
+  color: aliceblue;
+}
+li{
+  color: aliceblue;
+}
+.text{
+  color: steelblue;
+  position: absolute;
+  left: 45%;
+  top: 7%;
+}
+.img{
+  position: relative;
+}
+h1{
+  font-size: 70px;
+  border: 2px solid steelblue ;
+  background: antiquewhite;
+  box-shadow: 5px 5px 5px 5px black;
+
+}
+.foot{
+  background-color: #282c34;
+
+}
+
+
+
+
+
+
